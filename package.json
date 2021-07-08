@@ -1,0 +1,25 @@
+{
+  "name": "trash-out-test",
+  "version": "1.0.0",
+  "description": "trash-out-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnjifanda/trash-out-test.git"
+  },
+  "author": "Mr Njifanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrnjifanda/trash-out-test/issues"
+  },
+  "homepage": "https://github.com/mrnjifanda/trash-out-test#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "firebase": "^8.6.2"
+  }
+}
